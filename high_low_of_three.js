@@ -1,3 +1,4 @@
+#! /usr/local/bin/node
 x = 4
 y = 3
 z = 100
